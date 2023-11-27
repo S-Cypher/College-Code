@@ -1,0 +1,5 @@
+The sum is 6159545
+Total numbers: 12345
+Average: 498
+Largest number: 1000
+Smallest number: 1
